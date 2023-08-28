@@ -1,1 +1,1 @@
-include python, excel, and may tableau
+Welcome to my GitHub repository showcasing my portfolio as a Data Analyst. This collection highlights my proficiency in Python, Excel, and Tableau, all aimed at securing a position in the field of data analysis.
