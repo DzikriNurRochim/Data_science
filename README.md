@@ -8,5 +8,5 @@ Here are examples of my [Excel projects:](Excel_Project)
 ![dashboard](https://github.com/Dzikri12/Data_science/assets/57166971/291edd9a-920b-4065-a49c-de1d0613b0e8)
 
 ![dashboard](https://github.com/Dzikri12/Data_science/assets/57166971/f4bb1cac-8f31-437e-981c-e4f6fde998ad)
-here is my tableau public repository [tableau repository](https://public.tableau.com/app/profile/dzikri2136)
+here is my [tableau repository](https://public.tableau.com/app/profile/dzikri2136)
 
