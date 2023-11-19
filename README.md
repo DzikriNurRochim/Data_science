@@ -5,7 +5,10 @@ My expertise includes using Python for data processing, Excel for in-depth analy
 
 Here are examples of my [Excel projects:](Excel_Project)
 
-[E-Commerce Sales Analysis:](Excel_Project/Ecommerce_Sales)
+[E-Commerce Sales Analysis:](Excel_Project/Ecommerce_Sales) 
+
+to see the report click on
+[E-Commerse Sales Report](Excel_Project/Ecommerce_Sales/E-Commerce_Sales_Report.pdf)
 
 ![dashboard](https://github.com/Dzikri12/Data_science/assets/57166971/291edd9a-920b-4065-a49c-de1d0613b0e8)
 
