@@ -18,7 +18,10 @@ to see the report click on
 
 [Adidas Sales Analysis](Excel_Project/Adidas_Sales_2020-2021)
 
+
 ![Adidas_Sales_2020-2021](https://github.com/DzikriNurRochim/Data_science/blob/ffd377f5ba0b8e4dc622f0b3d7007809f7755ad0/Excel_Project/Adidas_Sales_2020-2021/adidas%20sales.jpg)
 
 here is my [tableau repository](https://public.tableau.com/app/profile/dzikri2136)
 
+
+![Adidas](https://github.com/DzikriNurRochim/Data_science/blob/6a542d60076033c76756bb5fac2df16cb0d7408d/Tableu%20Portofolio/Adidas/Adidas%20Sales.png)
